@@ -1,0 +1,38 @@
+.imgSlider{
+    padding: 30px 10px 10px 10px ;
+    height: 850px;
+    object-fit: cover;
+    width: 90%;
+    padding-bottom: 50px;
+}
+
+body{
+    padding-top: 20px;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+.hakkimizda{
+    background-color: rgb(238, 236, 236);
+    font-family: 'Raleway', sans-serif;
+}
+
+.ekip img:hover{
+    opacity: 0.8;
+    scale: 1.1;
+    transition: 0.5s;
+}
+
+.galeri{
+    background-color: #f2f2f2;
+}
+
+.stks img:hover{
+    opacity: 0.9;
+    scale: 1.1;
+    transition: 0.5s;
+}
+
+.logo{
+    height: 10px;
+}
