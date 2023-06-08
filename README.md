@@ -22,6 +22,10 @@ HTML ve CSS kullanıldı.
 
 
 
+https://github.com/EyupSaltukB/lojistik/assets/129687853/8712bc6d-d09e-4653-91f4-c10c77880906
+
+
+
 
 
 <h4> GIF </h4>
