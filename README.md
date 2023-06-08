@@ -1,6 +1,6 @@
 <h1>  Lojistik Şirketi Anasayfası</h1>
 
-Statik yapılı bir taşımacılık projesidir.
+Statik yapılı bir taşımacılık şirketi anasayfa projesidir.
 
 <h2> Kullanılan Teknolojiler</h2>
 
