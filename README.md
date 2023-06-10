@@ -18,7 +18,11 @@ HTML ve CSS kullanıldı.
 <h4> Video </h4>
 
 
-![](screenshots/lojistik.mp4)
+<!--![](screenshots/lojistik.mp4)-->
+
+
+https://github.com/EyupSaltukB/lojistik/assets/129687853/ce72d132-5224-4b50-a6d0-0b531352f705
+
 
 
 
